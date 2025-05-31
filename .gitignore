@@ -24,8 +24,8 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-runs/
-datasets/
+datasets/images/
+datasets/labels/
 yolov8n.pt
 MANIFEST
 
